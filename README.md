@@ -1,4 +1,4 @@
-<img src="(https://github.com/americano0029/unemployed_clock/blob/main/page.png)"></img>
+![page](https://github.com/americano0029/unemployed_clock/blob/main/page.png)
 
 ## Just a copy of Unemployed Clock Like Bae Seok Ryu's Love Next Door by fitriadyaa
 ## Support The original ☕
