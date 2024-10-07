@@ -1,10 +1,9 @@
-![clock]([https://github.com/fitriadyaa/TheStory/blob/main/the%20story.png?raw=true])
 
-## Unemployed Clock Like Bae Seok Ryu's Love Next Door
+## Just a copy of Unemployed Clock Like Bae Seok Ryu's Love Next Door by fitriadyaa
 
 Feel free to explore the codebase and dive into the journey! 🚀📱
 
-## Support Me ☕
+## Support The original ☕
 
 If you find MyGithubUser helpful or just want to support my work, you can buy me a coffee! ☕
 
