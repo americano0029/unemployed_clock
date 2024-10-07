@@ -1,8 +1,5 @@
 
 ## Just a copy of Unemployed Clock Like Bae Seok Ryu's Love Next Door by fitriadyaa
-
-Feel free to explore the codebase and dive into the journey! 🚀📱
-
 ## Support The original ☕
 
 If you find MyGithubUser helpful or just want to support my work, you can buy me a coffee! ☕
